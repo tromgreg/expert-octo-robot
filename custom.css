@@ -6,6 +6,14 @@ body{
     background-color: #686963;
 }
 
+#jumbotron{
+    background-color: #686963;
+}
+
+.card-body{
+    background-color: #75a38c;
+}
+
 #required{
    text-shadow:darkblue
 }
